@@ -1,0 +1,157 @@
+body
+{
+    background-image: url("logo1.png");
+    background-color: grey;
+    font-family: 'Lobster', cursive;
+
+}
+#glowna
+{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu
+{
+    margin-top: 20px;
+    display: none;
+}
+
+h1.logo
+{
+
+	font-size: 44px;
+	font-weight: 700;
+	color: gold;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+a:hover
+{
+    text-decoration: none;
+    font-size: 50px;
+}
+a
+{
+
+    text-decoration: none;
+    font-size: 44px;
+	font-weight: 700;
+	color: gold;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#topnav
+{
+    background-color: none;
+    opacity: 0.9;
+	text-align: center;
+}
+
+.glowa
+{
+    background-color:none;
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+    font-size: 22px;
+    cursor: pointer;
+
+}
+
+.glowa> li
+{
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+    border-radius: 12px;
+}
+#start
+{
+    display: none;
+}
+
+
+#h
+{
+
+    
+    margin-top: 2px;
+    font-size: 16px;
+    background-color: none;
+    display: none;
+}
+#hh
+{
+
+    font-size: 16px;
+    margin-top: 2px;
+    background-color: none;
+    display: none;
+}
+#hhh
+{
+
+    font-size: 16px;
+    margin-top: 2px;
+    background-color: none;
+    display: none;
+}
+
+#s
+{
+    margin-top: 20px;
+    margin-left: 250px;
+    background-color: none;
+    display: none;
+    opacity: 0.9;
+}
+
+#o
+{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    font-size: 18px;
+    background-color: none;
+    display: none;
+}
+
+#hl
+{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    background-color: none;
+    display: none;
+}
+#start
+{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    font-size: 24px;
+    background-color: none;
+}
+#a
+{
+    margin-left: 300px;
+}
+#wejscie
+{
+    color: gold;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+}
